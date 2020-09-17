@@ -1,0 +1,121 @@
+casa_chandra_big.jpg
+
+<b> Credit: </b> 
+<a href="http://www.physics.rutgers.edu/~jackph/"
+>John Hughes</a> et al. 
+(<a href="http://www.physics.rutgers.edu/">Rutgers</a>), 
+<a href="http://www.nasa.gov/"
+>NASA</a>/<a href="http://chandra.harvard.edu/"
+>CXC</a>/<a href="http://sao-www.harvard.edu/newtop/saohome.html"
+>SAO</a>
+</center><p>
+
+
+------------------------------------
+earthrise_lo1_big.gif
+
+<b> Credit: </b> 
+
+<a href="http://nssdc.gsfc.nasa.gov/planetary/lunar/lunarorb.html"
+>The Lunar Orbiter Project</a>,
+<a href="http://www.nasa.gov/">NASA</a>
+
+</center>
+<p>
+
+
+------------------------------------
+galaxies_2df_big.gif
+
+<b> Credit: </b> 
+<a href="mailto:colless@mso.anu.edu.au">Matthew Colless</a> 
+(<a href="http://www.mso.anu.edu.au/">ANU</a>)
+<a href="http://www.mso.anu.edu.au/2dFGRS/Public/team.html">et al.</a>, 
+<a href="http://www.mso.anu.edu.au/2dFGRS/">2dF Galaxy Redshift Survey</a>
+</center>
+<p>
+
+
+------------------------------------
+dometrails_cfht_big.jpg
+
+<b> Credit: </b> 
+<a href="mailto:jcc@cfht.hawaii.edu">J.-C. Cuillandre</a> 
+(<a href="http://www.cfht.hawaii.edu/CFHT/Staff/Staff_alpha.html"
+>CFHT Staff</a>), 
+<a href="http://www.cfht.hawaii.edu/">CFHT</a>
+</center><p>
+
+
+------------------------------------
+M94_hst1542a_1280.jpg
+
+<b> Image Credit: </b>
+
+<a href="http://www.spacetelescope.org">ESA/Hubble</a> and
+<a href="http://www.nasa.gov/">NASA</a>
+
+</center>
+<p> 
+
+
+------------------------------------
+GS_20150813_Perseid_4352_v2.jpg
+
+<b> Image Credit &
+<a href="lib/about_apod.html#srapply">Copyright</a>: </b>
+
+<a href="http://www.astrofotografen.se/">G&ouml;ran Strand</a>
+
+</center>
+<p> 
+
+
+------------------------------------
+MeteorBoom_vanderHoeven_750.gif
+
+<b> Image Credit & Copyright: </b> 
+<a href="https://www.flickr.com/photos/avdhoeven/">André van der Hoeven</a> 
+</center> <p> 
+
+
+------------------------------------
+MarsOpp2panelSTSCI_2094.jpg
+
+<b> Image Credit &
+<a href="http://hubblesite.org/about_us/copyright.php">Copyright</a>:</b>
+
+<a href="https://www.nasa.gov/">NASA</a>,
+<a href="http://www.spacetelescope.org">ESA</a>, and
+<a href="http://www.stsci.edu">STScI</a>
+
+</center> <p> 
+
+
+------------------------------------
+TahaGhouchkanluTLE2018.jpg
+
+<b> Image Credit &
+<a href="lib/about_apod.html#srapply">Copyright</a>:</b>
+
+<a href="http://twanight.org/taha">Taha Ghouchkanlu</a>
+(<a href="http://twanight.org/">TWAN</a>)
+
+</center> <p> 
+
+
+------------------------------------
+M015-2_Hubl.jpg
+
+<b> Image Credit &
+<a href="lib/about_apod.html#srapply">Copyright</a>: </b>
+
+<a href="http://astrophoton.com/about_me.htm">Bernhard Hubl</a>
+(<a href="http://www.cedic.at/">CEDIC</a>)
+
+</center> <p> 
+
+
+------------------------------------
+Total: 11 files 
+Valid: 10 files
