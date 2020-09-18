@@ -1,2 +1,2 @@
-# Parsing scripts
-A collection of useful parsing scripts in Python
+# Parsing script
+A script written in python to parse useful HTML information.
